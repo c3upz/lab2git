@@ -6,7 +6,7 @@ MINOR: COEN
 Year: Senior
 Hobbies: Stuff
 
-Class for Fall '20:
+Classes for Fall '20:
     1. COEN 174
     2. ENGR 19
     3. RSOC 99
