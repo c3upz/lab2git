@@ -12,4 +12,3 @@ Classes for Fall '20:
     3. RSOC 99
     4. Senior Design
 
-COLLAB: GERBINO, CHRIS:12345:Oct. 20th:Office#123 
